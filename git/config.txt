@@ -1,0 +1,7 @@
+Git: configurations
+git config --global user.name "User Name"
+git config --global user.email "your@email.com"
+git config --global color.ui true
+git config --global alias.logg "log --graph --oneline --decorate"
+git config --list
+
